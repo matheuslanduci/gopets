@@ -77,4 +77,4 @@ $ yarn deps
 $ yarn start
 ```
 
-5. Agora você pode acessar http://localhost:3333 e clicar no painél de Dashboard 🔥
+5. Agora você pode acessar http://localhost:3333 e clicar no painel de Dashboard 🔥
