@@ -26,8 +26,7 @@
     "prebuildServer": "rimraf ./build",
     "buildServer": "yarn prebuildServer && sucrase ./src -d ./build --transforms imports",
     "buildClient": "cd ./client && yarn build && cd ..",
-    "build": "yarn deps && yarn buildClient && yarn buildServer",
-    "start": "node build/index.js",
+    "start": "yarn buildClient && yarn buildServer && node build/index.js",
     "deps": "yarn install && cd ./client && yarn install && cd .."
   }
 }
