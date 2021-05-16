@@ -18,6 +18,7 @@ O projeto GoPets é um dashboard para gerenciar os pets da GoPets. Você pode cr
 - <a href="#tecnologias">Tecnologias 💻</a>
 - <a href="#armazenamento">Armazenamento 🎲</a>
 - <a href="#estilos">Estilos 💅</a>
+- <a href="#responsividade">Responsividade 📱</a>
 - <a href="#como-executar">Como executar 🚀</a>
 
 <br />
@@ -48,6 +49,15 @@ Para armazenar os dados foi utilizado o [LowDB](https://github.com/typicode/lowd
 Para realizar a estilização do App foi utilizado a estratégia de [Módulos CSS](https://github.com/css-modules/css-modules).
 
 <br />
+
+## Responsividade
+
+O aplicativo foi feito para ser responsivo nas seguintes dimensões:
+
+- 1440x900 (Original)
+- 1024x768 (Laptop)
+- 768x1024 (Tablet)
+- 375x812 (Celular)
 
 ## Como executar
 
