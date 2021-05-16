@@ -1,4 +1,4 @@
-<img alt="goPets" src="./.github/capa.png">
+<img width="100%" alt="goPets" src="./.github/capa.png">
 
 <h2 align="center">
   GoPets: Seu petshop online
@@ -35,13 +35,19 @@ Frontend:
 
 - [ReactJS](https://pt-br.reactjs.org)
 
+<br />
+
 ## Armazenamento
 
 Para armazenar os dados foi utilizado o [LowDB](https://github.com/typicode/lowdb) - uma biblioteca que, através de um arquivo JSON, cria uma base de dados para ser utilizado em todo o app. Foi escolhido pela facilidade na hora de replicar o aplicativo, sem necessidade de instalação de um sistema de banco de dados.
 
+<br />
+
 ## Estilos
 
 Para realizar a estilização do App foi utilizado a estratégia de [Módulos CSS](https://github.com/css-modules/css-modules).
+
+<br />
 
 ## Como executar
 
